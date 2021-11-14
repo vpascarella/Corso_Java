@@ -6,6 +6,8 @@ public class zoo {
 		new zoo().start();
 		System.out.println("Ciao");
 		System.out.println("ciao");
+		System.out.println("ciao");
+
 	}
 	
 	void start() {
