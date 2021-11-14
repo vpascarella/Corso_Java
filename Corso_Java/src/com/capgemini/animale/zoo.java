@@ -7,6 +7,7 @@ public class zoo {
 		System.out.println("Ciao");
 		System.out.println("ciao");
 		System.out.println("ciao");
+		System.out.println("riprova con eclipse");
 
 	}
 	
