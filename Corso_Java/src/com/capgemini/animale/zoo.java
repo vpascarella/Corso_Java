@@ -4,6 +4,7 @@ public class zoo {
 
 	public static void main(String[] args) {
 		new zoo().start();
+		System.out.println("Ciao");
 	}
 	
 	void start() {
